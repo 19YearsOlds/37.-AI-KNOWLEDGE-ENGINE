@@ -1,0 +1,8 @@
+faiss-cpu
+openai
+pypdf
+requests
+beautifulsoup4
+tiktoken
+langchain
+chromadb
